@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mackenzie (@mjorgen1), a 3rd year PhD Candidate at King's College London originally from the USA.
-- 👀 I’m interested in mitigating harms that come from classification systems making predictions about people.
+- 👀 I’m interested in Responsible AI and specifically about mitigating harms that come from classification systems making predictions about people.
 - 📫 How to reach me...email!
 
 <!---
