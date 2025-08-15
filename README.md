@@ -1,4 +1,4 @@
-👋 Hi, I’m Mackenzie (@mjorgen1), a 4th year PhD Candidate at King's College London originally from the USA.
+👋 Hi, I’m Mackenzie (@mjorgen1), a Postdoctoral Research Fellow at Northumbria University. I have a PhD in Computer Science from King's College London.
 
 👀 I’m interested in Responsible AI and algorithmic fairness.
 
